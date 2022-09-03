@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Investree Fullstack Developer Virtual Internship Program</title>
+    <title>Final Task Fullstack Developer - VIX Rakamin Academy</title>
 
     <!-- Google Fonts -->
     <link href="https://fonts.gstatic.com" rel="preconnect">
@@ -31,7 +31,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task 5
+                    Home Display
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
